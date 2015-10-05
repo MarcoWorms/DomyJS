@@ -1,0 +1,9 @@
+.center {
+	margin: auto;
+}
+
+.gameObject {
+	position : absolute;
+	top: 0px;
+	left: 0px;
+}
